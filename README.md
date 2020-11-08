@@ -18,7 +18,7 @@ If you want to extend this to some other *arr/etc software, extend the list of e
 
 1. Clone the repository
 
-    git clone https://git.github.com/samtomcom/arr_post_process.git
+    git clone https://github.com/samtomcom/arr_post_process.git
 
 2. Edit `execute.bat` to the correct location.
 3. Naviage to Sonarr/Radarr [Settings > Connect > + > Custom Script](https://i.imgur.com/UOhYbNf.png), fill in the Path variable to `your\install\path\execute.bat`
