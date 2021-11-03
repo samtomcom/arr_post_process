@@ -1,1 +1,2 @@
-python D:\code\arr_post_process\arr_post_process.py
+:: Change these to the correct values
+C:\Python39\python.exe C:\path\to\script.py
